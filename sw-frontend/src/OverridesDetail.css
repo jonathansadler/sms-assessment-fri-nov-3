@@ -1,0 +1,43 @@
+
+
+
+/* Desktop */
+@media screen and (max-width: 1440px) {
+
+	.overdetailwidth{
+		width: 334px ; 
+	}
+
+}
+
+
+/* Tablet */
+@media screen and (max-width: 834px ) {
+
+	.overdetailwidth{
+		width: 456px;
+	}	
+
+
+}
+
+/* Phone */
+
+@media screen and (max-width: 720px) and (min-width: 414px) {
+
+
+	.overdetailwidth{
+		width: 358px;
+	}
+
+
+}
+
+@media screen and (max-width: 413px ) {
+
+	.overdetailwidth{
+		width: 200px;
+	}	
+
+
+}
